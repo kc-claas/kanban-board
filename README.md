@@ -10,7 +10,7 @@ This utility can be used to maintain a kanban board for monitoring which members
 
 
 ## Usage
-The deployed page can be found at [](). To use the board, a user must first log in. After logging in, they can view existing tickets, create new ones, or edit and delete existing tickets.
+The deployed page can be found at [https://kanban-board-uomh.onrender.com/](https://kanban-board-uomh.onrender.com/). To use the board, a user must first log in. After logging in, they can view existing tickets, create new ones, or edit and delete existing tickets.
 
 ## License
 This application is covered under the [MIT](./LICENSE) license
