@@ -10,8 +10,8 @@ const login = async (userInfo: UserLogin) => {
     body: JSON.stringify(userInfo)
   })
 
+  if (!response.ok) { throw new Error('Credentials are incorrect!')}
 
-  
   return await response.json()
 }
 
